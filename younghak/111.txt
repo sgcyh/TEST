@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-천영학TEST2
-3
-=======
 천영학TEST
 천영학TEST2 
->>>>>>> cddc6386ab0f0a2a362b59e1c9745e5b52caa142
+천영학TEST3
+
